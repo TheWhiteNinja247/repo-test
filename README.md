@@ -2,7 +2,5 @@
 
 This is a test branch readme file.
 
-*list 01*
-*list 01
-
-
+* List 01
+* list 02
